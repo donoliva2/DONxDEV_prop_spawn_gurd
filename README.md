@@ -1,4 +1,4 @@
-# 🛡️ DONxDEV Anti-Prop Guard v1.0.0
+# 🛡️ DONxDEV Prop Spawn Guard v1.0.0
 
 A high-performance FiveM anti-prop script designed to automatically detect, delete, log, and action against unauthorized or crash-inducing blacklisted props.
 
