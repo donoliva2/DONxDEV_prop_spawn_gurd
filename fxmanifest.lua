@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'DONxDEV'
-description 'DONxDEV Anti-Prop, Screenshot & Detection System'
+description 'DONxDEV ANTICHEAT - Prop Spawn Gurd, Screenshot & Detection System'
 version '1.0.0'
 
 client_scripts {
